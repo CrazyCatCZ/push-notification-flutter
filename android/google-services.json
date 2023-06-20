@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29983992876",
+    "project_id": "motion-detector-new",
+    "storage_bucket": "motion-detector-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29983992876:android:506040c1a3cf86e5047589",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29983992876-lgqu84vp0oumo3d4jquaoh3ip0kh5pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYG-xB-vmKvgNHIkMHOSGjL3SdnlJgsF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29983992876-lgqu84vp0oumo3d4jquaoh3ip0kh5pgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
